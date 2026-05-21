@@ -9,6 +9,7 @@ A data engineering project that builds an end-to-end analytics pipeline on Netfl
 This project simulates a real-world data engineering workflow: raw data is extracted from public sources, cleaned and merged using Python, and delivered as a business-ready dashboard. The goal is to explore what types of content Netflix offers, how its catalog has grown over time, and which titles and genres receive the highest audience ratings.
 
 ---
+![Netflix Dashboard](images/dashboard_preview.png)
 
 ## 🗂️ Project Structure
 
